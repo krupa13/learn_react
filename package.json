@@ -1,0 +1,24 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "This is learn react project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krupa13/learn_react.git"
+  },
+  "keywords": [
+    "React",
+    "Krupa",
+    "Nandh"
+  ],
+  "author": "Krupa Nandh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krupa13/learn_react/issues"
+  },
+  "homepage": "https://github.com/krupa13/learn_react#readme"
+}
