@@ -18,3 +18,20 @@
 - Reliable Caching
 - Tree Shaking -> Remoes unused code for us
 - Different dev and parcel bundles
+
+# planning of app
+
+# -> Header
+    * Logo
+    * Nav Items
+# -> Body
+    * Search
+    * Restaurent Container
+        * Restaurent Cards
+            - Img
+            - Name of Res., Star Rating, cuisine, Delivery Time
+# -> Footer
+    * Copyright
+    * Links
+    * Address
+    * Contact
