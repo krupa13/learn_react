@@ -35,3 +35,12 @@
     * Links
     * Address
     * Contact
+
+# There are two types of Export / Import
+1) Default Export/Import
+    export default <componentName>
+    import <componentName> from "pathname"
+
+2) Named Export/Import
+    export const <componentName>
+    import {componentName} from "pathname
