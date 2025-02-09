@@ -44,3 +44,21 @@
 2) Named Export/Import
     export const <componentName>
     import {componentName} from "pathname
+
+# React Hooks
+    (Normal JS utility function)
+    - useState() - Superpowerful state variable in react
+    - useEffect()
+
+# 2 TYpes of Routing in web app
+    - Client side Routing
+    - Server side routing
+
+# Redux Toolkit
+    - install @reduxjs/toolkit and react-redux
+    - Build our store
+    - Connect our store to our app
+    - Slice (cartslice)
+    - dispatch (action)
+    - Selector
+
